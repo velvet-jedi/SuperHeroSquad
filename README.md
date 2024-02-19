@@ -1,6 +1,6 @@
 # SuperHeroSquad
 
-![Superhero Squad](link_to_image_or_logo)
+![Watch live](https://velvet-jedi.github.io/SuperHeroSquad/)
 
 ## Project Overview
 
@@ -21,5 +21,5 @@ The header section beautifully showcases key squad details, including the squad 
 Each superhero is featured on a dedicated card, providing an organized layout. The card includes essential details such as the hero's name, secret identity, age, and a list of superpowers retrieved from the JSON data. The use of semantic HTML elements enhances accessibility and search engine optimization.
 
 
-[![Follow me on Twitter](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/Sensei_Gakusei)
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/Sensei_Gakusei?style=social)](https://twitter.com/Sensei_Gakusei)
 
