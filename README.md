@@ -1,6 +1,6 @@
 # SuperHeroSquad
 
-![Watch live](https://velvet-jedi.github.io/SuperHeroSquad/)
+[Watch live](https://velvet-jedi.github.io/SuperHeroSquad/)
 
 ## Project Overview
 
