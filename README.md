@@ -1,6 +1,7 @@
 # SuperHeroSquad
 
 [Watch live](https://velvet-jedi.github.io/SuperHeroSquad/)
+[Blog post](https://medium.com/@geekymuch/json-dom-activities-447278307d08)
 
 ## Project Overview
 
